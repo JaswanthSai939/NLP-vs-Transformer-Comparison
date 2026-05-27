@@ -210,13 +210,13 @@ streamlit run app.py
 
 ### Positive Review Prediction
 
-![Positive Review](screenshots/Positive_Review.png)
+![Positive Review](./screenshots/Positive_Review.png)
 
 ---
 
 ### Negative Review Prediction
 
-![Negative Review](screenshots/Negative_Review.png)
+![Negative Review](./screenshots/Negative_Review.png)
 
 ---
 
@@ -224,15 +224,13 @@ streamlit run app.py
 
 ### Traditional NLP Model Output
 
-![Traditional NLP Model](screenshots/traditional_model.png)
+![Traditional NLP Model](./screenshots/traditional_model.png)
 
 ---
 
 ### Transformer Model Output
 
-![Transformer Model](screenshots/transformer_model.png)
-
----
+![Transformer Model](./screenshots/transformer_model.png)
 
 ## Observations
 
