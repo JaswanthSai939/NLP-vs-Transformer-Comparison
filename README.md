@@ -210,13 +210,13 @@ streamlit run app.py
 
 ### Positive Review Prediction
 
-![Positive Review](https://raw.githubusercontent.com/JaswanthSai939/NLP-vs-Transformer-Comparison/main/screenshots/Positive_Review.png)
+![Positive Review](screenshots/Positive_Review.png)
 
 ---
 
 ### Negative Review Prediction
 
-![Negative Review](https://raw.githubusercontent.com/JaswanthSai939/NLP-vs-Transformer-Comparison/main/screenshots/Negative_Review.png)
+![Negative Review](screenshots/Negative_Review.png)
 
 ---
 
@@ -224,13 +224,13 @@ streamlit run app.py
 
 ### Traditional NLP Model Output
 
-![Traditional NLP Model](https://raw.githubusercontent.com/JaswanthSai939/NLP-vs-Transformer-Comparison/main/screenshots/traditional_model.png)
+![Traditional NLP Model](screenshots/traditional_model.png)
 
 ---
 
 ### Transformer Model Output
 
-![Transformer Model](https://raw.githubusercontent.com/JaswanthSai939/NLP-vs-Transformer-Comparison/main/screenshots/transformer_model.png)
+![Transformer Model](screenshots/transformer_model.png)
 
 ## Observations
 
